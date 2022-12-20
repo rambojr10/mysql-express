@@ -1,5 +1,5 @@
 # API CRUD with MYSQL2 and Express
 
-I'am using middlewares, router and folder structure.
+I'm using middlewares, router and folder structure.
 
 @AndrésV
